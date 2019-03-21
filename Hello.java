@@ -16,6 +16,10 @@ public class Hello {
 =======
 	  //wish by prahsar
 	  //second prashar wish
+<<<<<<< HEAD
+>>>>>>> prashar
+=======
+	  //prashar is here
 >>>>>>> prashar
    }
 }
