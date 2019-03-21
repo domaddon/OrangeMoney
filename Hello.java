@@ -10,7 +10,12 @@ public class Hello {
 	  //aur batao kya haal hain
 	  //wish you happy holi
 	  //Wish you happy holi domeshwar
+<<<<<<< HEAD
 	  //widh by master
 	  //master wish second
+=======
+	  //wish by prahsar
+	  //second prashar wish
+>>>>>>> prashar
    }
 }
