@@ -19,3 +19,4 @@ we should deploye the code
 
 Add Some more content of India
 Stash Testing
+stash untracked
